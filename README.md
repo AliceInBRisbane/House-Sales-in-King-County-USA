@@ -1,5 +1,5 @@
-# House-Sales-in-King-County-USA
-Predicting Housing Prices in King County
+# House-Sales-in-King-County-USA-with-Python
+Predicting Housing Prices in King County with Python
 # Overview
 In this project, I am playing the role of a Data Analyst working at a Real Estate Investment Trust. Our Trust is seeking to diversify its investment portfolio by venturing into the residential real estate market. To facilitate this new initiative, I have been tasked with developing a model to determine the market price of a house based on a set of specific features.
 
